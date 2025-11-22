@@ -35,9 +35,9 @@ java QuestionX_SystemName.SystemName
 - Scanner for input
 - Custom exception handling
 - LocalDateTime for timestamps
-```
+  
+## Note
+Due to complicated network and firewall issues on my computer I could only upload
+the ZIP forder containing the main Package forder
 
 
-# OS files
-.DS_Store
-Thumbs.db
